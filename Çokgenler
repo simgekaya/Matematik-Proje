@@ -1,0 +1,22 @@
+Düzgün Altıgen
+Düzgün altıgenin bir iç açısı 120 derece, bir dış açısı 60 derecedir. Köşelerden farklı kenarlara dikler indirilerek 30-60-90 üçgeni kolaylıkla elde edilebilir.
+
+Düzgün Beşgen
+Düzgün beşgenin bir iç açısı 108 derece, bir dış açısı ise 72 derecedir. Bir köşeden tam kenara dik indirildiğinde o kenarı iki eşit parçaya böler ve simetri ekseni oluşturur. Bir köşeden komşu olmayan köşelere birleştirme yapıldığına 36-36-108 ikizkenar üçgeni elde edilebilir.
+
+Düzgün Sekizgen
+Düzgün sekizgenin bir iç açısı 67.5 derecedir. Düzgün sekizgenin üç komşu kenarı kullanılarak 45-45-90 üçgenleri elde edilebilir.
+
+Çokgenlerin Genel Özellikleri
+n kenarlı bir çokgenin:
+
+İç açılar toplamı (n-2).180’dir.
+Dış açıları toplamı 360’tır.
+Köşegen sayısı formülü: n.(n-3)’tür. Köşegen sayısı nasıl bulunur ile ilgili bir soru gelirse bu formülü kullanırız.
+Bir köşesinden n-3 tane köşegen çizilir.
+Bir köşesinden çizilen köşegenler n-2 tane üçgen oluşturur.
+n kenarlı bir düzgün çokgenin:
+
+Bir dış açısı 360/n kadardır.
+Bir iç açısı ((n-2).180)/n kadardır.
+Çokgenlerin iç açıları toplamı (n-2).180 formülü ile hesaplanır.
